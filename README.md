@@ -1,6 +1,10 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). Command used to create new expo app `npx create-expo-app@latest`.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). Command used to create new expo app 
+
+```bash
+npx create-expo-app@latest
+```
 
 ## Get started
 
